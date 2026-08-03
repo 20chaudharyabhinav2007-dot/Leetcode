@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0169-majority-element) |
 | [0877-stone-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0877-stone-game) |
 ## Linked List
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -87,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0877-stone-game) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
