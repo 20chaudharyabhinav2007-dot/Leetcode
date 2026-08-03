@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0877-stone-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0877-stone-game) |
 ## Linked List
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0009-palindrome-number) |
+| [0877-stone-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0877-stone-game) |
 | [2769-find-the-maximum-achievable-number](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 ## Recursion
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0877-stone-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0877-stone-game) |
 ## Sorting
 |  |
 | ------- |
@@ -77,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
