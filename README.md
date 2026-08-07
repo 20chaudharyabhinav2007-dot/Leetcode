@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0013-roman-to-integer) |
 | [0877-stone-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1025-divisor-game) |
 | [2769-find-the-maximum-achievable-number](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 ## Recursion
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0877-stone-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1025-divisor-game) |
 ## Sorting
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1025-divisor-game) |
 ## Counting
 |  |
 | ------- |
@@ -126,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0020-valid-parentheses) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
