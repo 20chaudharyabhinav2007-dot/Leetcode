@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0877-stone-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1025-divisor-game) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
