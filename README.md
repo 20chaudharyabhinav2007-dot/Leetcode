@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0217-contains-duplicate) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0217-contains-duplicate) |
 | [0877-stone-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0877-stone-game) |
 | [1929-concatenation-of-array](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0217-contains-duplicate) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Greedy
 |  |
 | ------- |
