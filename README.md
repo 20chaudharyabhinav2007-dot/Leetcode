@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0520-detect-capital](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0520-detect-capital) |
 ## Sliding Window
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0877-stone-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1025-divisor-game) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Bracket Sequences
 |  |
@@ -208,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
