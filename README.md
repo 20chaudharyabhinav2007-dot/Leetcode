@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0877-stone-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1025-divisor-game) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Divide and Conquer
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0067-add-binary) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
