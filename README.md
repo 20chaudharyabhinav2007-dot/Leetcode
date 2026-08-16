@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0520-detect-capital](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0520-detect-capital) |
+| [1903-largest-odd-number-in-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1510-stone-game-iv](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1510-stone-game-iv) |
+| [1903-largest-odd-number-in-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2769-find-the-maximum-achievable-number](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0011-container-with-most-water) |
+| [1903-largest-odd-number-in-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
