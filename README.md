@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0229-majority-element-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
