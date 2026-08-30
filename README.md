@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
