@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0877-stone-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0877-stone-game) |
 | [1929-concatenation-of-array](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1929-concatenation-of-array) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
