@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0877-stone-game) |
 | [1929-concatenation-of-array](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2293-min-max-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2293-min-max-game) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2293-min-max-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2293-min-max-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Bracket Sequences
 |  |
