@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0940-distinct-subsequences-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1025-divisor-game) |
 | [1510-stone-game-iv](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1510-stone-game-iv) |
 ## Sorting
