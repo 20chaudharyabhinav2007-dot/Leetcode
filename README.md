@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Dynamic Programming
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0392-is-subsequence](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1025-divisor-game) |
