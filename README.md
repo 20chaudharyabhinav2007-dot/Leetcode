@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1025-divisor-game) |
 | [1510-stone-game-iv](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1510-stone-game-iv) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
 | ------- |
