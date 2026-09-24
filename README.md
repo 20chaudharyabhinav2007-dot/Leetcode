@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Recursion
 |  |
 | ------- |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0258-add-digits) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Database
 |  |
 | ------- |
