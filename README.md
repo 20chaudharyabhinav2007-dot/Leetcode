@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3663-find-the-least-frequent-digit](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3731-find-missing-elements) |
+| [3941-password-strength](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3941-password-strength) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3941-password-strength](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3941-password-strength) |
 ## Sliding Window
 |  |
 | ------- |
