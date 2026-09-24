@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3904-smallest-stable-index-ii) |
