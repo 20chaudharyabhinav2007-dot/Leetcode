@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0459-repeated-substring-pattern) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0392-is-subsequence) |
