@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1510-stone-game-iv) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0389-find-the-difference) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Newton's Method
