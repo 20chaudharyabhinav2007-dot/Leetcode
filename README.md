@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0877-stone-game) |
