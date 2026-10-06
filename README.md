@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0509-fibonacci-number) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0835-image-overlap](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0835-image-overlap) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
