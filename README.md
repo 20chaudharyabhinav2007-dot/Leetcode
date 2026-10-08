@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Memoization
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Binary Search Tree
 |  |
