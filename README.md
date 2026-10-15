@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-min-max-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2293-min-max-game) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 ## Backtracking
 |  |
@@ -649,4 +652,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
