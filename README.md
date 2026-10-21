@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3941-password-strength](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3941-password-strength) |
 ## Sliding Window
 |  |
