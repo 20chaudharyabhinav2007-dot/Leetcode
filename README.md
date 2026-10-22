@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2293-min-max-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2293-min-max-game) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2352-equal-row-and-column-pairs](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2293-min-max-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2293-min-max-game) |
+| [2352-equal-row-and-column-pairs](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0835-image-overlap) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2352-equal-row-and-column-pairs](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Number Theory
 |  |
