@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0520-detect-capital) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0735-asteroid-collision) |
