@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1903-largest-odd-number-in-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2409-count-days-spent-together](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2769-find-the-maximum-achievable-number](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
