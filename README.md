@@ -736,4 +736,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
