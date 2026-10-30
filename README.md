@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3941-password-strength](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3941-password-strength) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -737,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -777,4 +779,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
