@@ -655,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1254-number-of-closed-islands](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -683,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Memoization
 |  |
