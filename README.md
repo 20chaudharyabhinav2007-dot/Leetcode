@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3663-find-the-least-frequent-digit](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
+| [3665-twisted-mirror-path-count](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3731-find-missing-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2352-equal-row-and-column-pairs](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3665-twisted-mirror-path-count](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Number Theory
 |  |
