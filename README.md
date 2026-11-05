@@ -666,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0872-leaf-similar-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0872-leaf-similar-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0872-leaf-similar-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -706,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0301-remove-invalid-parentheses](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
