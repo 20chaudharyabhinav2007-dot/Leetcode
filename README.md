@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0229-majority-element-ii) |
+| [1267-count-servers-that-communicate](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1657-determine-if-two-strings-are-close](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1748-sum-of-unique-elements](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [3663-find-the-least-frequent-digit](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0835-image-overlap](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2352-equal-row-and-column-pairs](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
@@ -690,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -720,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Memoization
@@ -808,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
