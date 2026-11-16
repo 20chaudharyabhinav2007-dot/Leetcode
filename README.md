@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2293-min-max-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2293-min-max-game) |
 | [2352-equal-row-and-column-pairs](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2390-removing-stars-from-a-string) |
