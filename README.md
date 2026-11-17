@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Dynamic Programming
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3665-twisted-mirror-path-count) |
