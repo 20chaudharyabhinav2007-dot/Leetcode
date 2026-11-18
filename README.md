@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1185-day-of-the-week](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1185-day-of-the-week) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
