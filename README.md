@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3731-find-missing-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3934-smallest-unique-subarray](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3941-password-strength](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3941-password-strength) |
 ## String
 |  |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-sum-of-sortable-integers](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Linked List
 |  |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -895,4 +898,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/20chaudharyabhinav2007-dot/Leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
